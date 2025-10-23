@@ -818,6 +818,7 @@ img {
     width: initial;
   }
   .nav_list{
+    display: flex;
     flex-direction: row;
     align-items: center;
     column-gap: 4rem;
